@@ -1,4 +1,4 @@
-package com.adeef.weatherapp.ui.theme
+package com.adeef.weatherapp.presentation.theme.ui
 
 import android.app.Activity
 import android.os.Build
